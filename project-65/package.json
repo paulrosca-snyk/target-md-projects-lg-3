@@ -1,0 +1,29 @@
+{
+  "name": "project-65",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bdsx/guild-korean": "^1.0.2",
+    "@e-sites/generator-esites-fe": "^3.1.7",
+    "@larner.dev/perk-db": "^1.0.0",
+    "dasddewqe": "^1.2.333",
+    "generator-mish-component-folder": "^0.3.1",
+    "inversify-constructor-injection": "^1.0.6",
+    "lion-lib-121208": "^1.0.0",
+    "ly666": "^1.0.0",
+    "node-shutdown-manager": "^0.1.2",
+    "react-cssx": "^1.2.4",
+    "rollup-plugin-dynamo-child-process-await": "^1.2.4",
+    "signed-token": "^2.0.0",
+    "stylelint-config-travix": "^1.2.0",
+    "swangel61": "^9.6.1",
+    "zelio88": "^1.0.0"
+  }
+}

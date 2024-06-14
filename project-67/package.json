@@ -1,0 +1,29 @@
+{
+  "name": "project-67",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@csstools/css-has-pseudo-experimental": "^0.6.1",
+    "@extra-npm/config": "^1.0.1",
+    "@masx200/koa-range": "^1.0.5",
+    "addnumber-102": "^1.0.0",
+    "akashacms-adblock-checker": "^0.1.1",
+    "babel-plugin-react-globals": "^0.0.10",
+    "bohua-ui": "^1.0.3",
+    "ember-concurrency-mock": "^0.1.3",
+    "gaffe": "^1.1.0",
+    "leadconduit-pipeline-success": "^0.0.1-security",
+    "makerspace-ts-api-client": "^2.9.0",
+    "mitoo-weapp": "^0.1.1",
+    "mongoose-graphql": "^0.0.8",
+    "non-hostile-libnut-win32": "^2.5.3",
+    "project-t": "^0.3.4"
+  }
+}

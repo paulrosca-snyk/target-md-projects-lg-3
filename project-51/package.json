@@ -1,0 +1,29 @@
+{
+  "name": "project-51",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cr-ui/react": "^2.0.0",
+    "@crinkles/feo": "^2.2.4",
+    "@openfonts/old-standard-tt_cyrillic-ext": "^1.44.2",
+    "@zalastax/nolb-goy": "^0.0.1-security",
+    "bottom-trigger": "^0.1.0",
+    "class-validate": "^0.0.1",
+    "generator-webview-code": "^0.0.5",
+    "hexo-butterfly-fcircle": "^1.0.5",
+    "html5-websocket-php-he-jquery-shishi-web-yingyong-jifan": "^2023.211.0",
+    "ichartjs": "^0.0.1-security",
+    "indui-cordova-lib": "^1.0.0",
+    "inspekter-plugin-javascript": "^1.1.0",
+    "orthodox": "^1.0.1",
+    "proxy-registry": "^1.0.3",
+    "super_mario_bros_streaming_ita_senza_limiti_per_tutti": "^1.0.0"
+  }
+}

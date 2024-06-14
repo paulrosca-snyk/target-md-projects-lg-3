@@ -1,0 +1,29 @@
+{
+  "name": "project-57",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyper.fun/fluentui-emoji-neutral-face-flat": "^2.0.0",
+    "@levellinkmodal/scaffold-utils": "^4.0.5",
+    "bpt-pack-two": "^1.0.92",
+    "cli-mor": "^1.0.7",
+    "cropmon": "^1.0.0",
+    "custom-buefy-ar-rtl": "^1.0.3",
+    "dianshang-jinhuadao-erlingyijiulingqi": "^2022.1028.0",
+    "esocket.pos": "^1.0.0",
+    "express-session-rethinkdb-esm": "^0.0.5",
+    "mifly": "^0.0.5",
+    "mty_npm_q": "^1.0.0",
+    "quickdoc": "^0.0.6-beta.0",
+    "react-nerd": "^1.2.3",
+    "req-interceptor": "^1.0.0",
+    "wdata": "^0.0.1"
+  }
+}

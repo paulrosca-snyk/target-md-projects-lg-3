@@ -1,0 +1,29 @@
+{
+  "name": "project-59",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babydogeswap/config": "^3.3.13",
+    "@georgexu99/plugin-auto-unpack-natives": "^6.0.0-beta.78",
+    "@hyper.fun/antd-icon-sketch-outlined": "^1.3.0",
+    "@kiwibit/flex-layout": "^17.0.2",
+    "@maleet/worktile-gantt": "^15.1.1-0",
+    "@pandarose/wp": "^0.0.18",
+    "@rango-dev/provider-enkrypt": "^0.34.0",
+    "@songkeys/jotai-trpc": "^0.6.0-alpha.0",
+    "antd-form-table": "^0.0.4",
+    "cordova-lib": "^12.0.1",
+    "mongo-extended": "^1.1.1",
+    "mytrial": "^1.2.2",
+    "pouchdb-admins": "^1.0.6",
+    "symlink-config": "^0.2.0",
+    "xjr_ulit_123": "^1.0.0"
+  }
+}

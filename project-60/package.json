@@ -1,0 +1,29 @@
+{
+  "name": "project-60",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@autarklabs/apps-whitelist-oracle": "^0.0.2",
+    "@bamboszka/randomid-generator": "^1.0.1",
+    "@freik/recoil-tools": "^0.1.8",
+    "@functions-io-modules/schema": "^1.0.1",
+    "@hyper.fun/feather-power": "^1.3.0",
+    "@jc-u/modal": "^0.2.0",
+    "@okamjs/cli": "^0.0.1",
+    "@pyramation/htpasswd": "^0.0.1",
+    "@theme-playground/components": "^0.1.3",
+    "intern_scocco_rce": "^0.0.1-security",
+    "jest-extended-snapshot": "^1.1.5",
+    "linter-raml": "^1.0.2",
+    "rpython": "^1.1.0",
+    "scarly": "^1.1.4",
+    "tomi-enting47-breki": "^3.3.1"
+  }
+}

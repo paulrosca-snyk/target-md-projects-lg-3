@@ -1,0 +1,29 @@
+{
+  "name": "project-66",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bip-sh/cli": "^1.0.0",
+    "@denyafr14/in-mytea": "^1.1.4",
+    "@e-mc/task": "^0.8.11",
+    "@gerhobbelt/stream-sink": "^2.2.2-5",
+    "abtest-util": "^0.0.4",
+    "crossencoder": "^1.0.5",
+    "erdrop-cbs": "^0.1.0",
+    "frzdex": "^1.0.0",
+    "jingxin_ajax": "^1.0.0",
+    "jwd-jui": "^0.1.82",
+    "kak-pravilno-kupit-aktsii-u-gazproma-75ssylsub": "^1.0.0",
+    "ku-sel-zxb": "^1.0.3",
+    "react-scrolla": "^0.3.1",
+    "webpackdelchunkfile": "^1.1.1",
+    "z-robotjs": "^1.0.1"
+  }
+}

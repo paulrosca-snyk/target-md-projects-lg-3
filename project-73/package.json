@@ -1,0 +1,29 @@
+{
+  "name": "project-73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@charged-particles/contract-allowlist": "^1.0.16",
+    "@finderly/onesky": "^1.0.2",
+    "@phoenix-plugin-registry/source-scripts": "^0.7.0",
+    "@tsdi/boot": "^6.0.48",
+    "@zalastax/nolb-_nodet": "^0.0.1-security",
+    "coordinates_tracking": "^1.0.0",
+    "graphql-ext": "^1.5.4",
+    "gulp-jshtml": "^0.0.13",
+    "ifarfai-igafo-jag": "^1.1.5",
+    "library-test-npm": "^1.0.0",
+    "node-pranav": "^1.0.0",
+    "polaris-migrator": "^0.0.1-security",
+    "react-native-animating-bottom-tab-bar": "^1.0.6-4",
+    "wl-explorermini": "^0.0.1",
+    "zidanduanxin": "^1.0.0"
+  }
+}

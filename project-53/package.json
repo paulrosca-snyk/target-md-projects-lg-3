@@ -1,0 +1,29 @@
+{
+  "name": "project-53",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dmn-arc-core-components/feature_global-story-card": "^1.0.1-alpha",
+    "@haaretz/e2e": "^1.3.0",
+    "@jacksonvirgo/example-package.js": "^0.0.4",
+    "@pizswap/v2-sdk": "^1.0.3",
+    "@versini/ui-styles": "^1.9.2",
+    "@vusui/css": "^7.2.7",
+    "array.and": "^1.0.1",
+    "central_vole_requirement": "^1.2.1",
+    "disbot-ts-jody-koelpin": "^1.0.0",
+    "doloremqueasperiores": "^1.1.0",
+    "domtt": "^1.0.0",
+    "general-basic-table": "^2.0.3",
+    "rh3dsdk": "^1.0.123",
+    "tea-tokyothrowdownn": "^0.1.0",
+    "webpack-numbers-allenware": "^1.0.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project-54",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@allmaps/mapboxgl": "^1.0.0-beta.1",
+    "@euglena/organelle.http-client.axios": "^5.0.6",
+    "@marlonapp/marlon-vue": "^1.0.17",
+    "@service/core": "^0.1.9",
+    "ai-todo": "^1.0.0",
+    "ashish-baisla-library": "^0.1.1",
+    "geheng-coker": "^1.0.0",
+    "iui-general": "^1.0.14",
+    "jquery-storelocator-plugin": "^3.4.0",
+    "mobireport-libs": "^1.0.0",
+    "react-multy-ui": "^1.0.0",
+    "roolio": "^0.1.1",
+    "sass-exception": "^1.1.0",
+    "sentence-maker": "^1.0.10",
+    "tsdux-observable": "^4.0.1"
+  }
+}

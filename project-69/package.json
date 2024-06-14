@@ -1,0 +1,29 @@
+{
+  "name": "project-69",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oviava/authjs-nuxt": "^1.0.6",
+    "@yozora/tokenizer-reference-image": "^1.0.0-alpha.2",
+    "arky": "^2.0.1",
+    "dictcc-js": "^1.0.0",
+    "ember-scrollable": "^1.0.2",
+    "epic-webpack-node-externals": "^1.0.0",
+    "fontsource-chunk-five": "^4.0.0",
+    "gulp-ast": "^0.0.4",
+    "gulp-static-handlebars": "^1.2.0",
+    "hedy-offline": "^1.0.3",
+    "mobilnyi-versiia-1xbet-zerkalo-eyewvfg8p": "^1.0.0",
+    "reusep": "^0.0.1",
+    "vue-szp-calendar": "^1.0.0",
+    "vue-template-babel-import-compiler": "^0.1.3-alpha-25",
+    "yet-another-captcha": "^1.0.0"
+  }
+}

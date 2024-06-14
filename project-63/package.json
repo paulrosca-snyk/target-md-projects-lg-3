@@ -1,0 +1,29 @@
+{
+  "name": "project-63",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kamran.zigron/hsl-to-hex": "^1.0.1",
+    "@totemstan/securelink": "^1.15.0",
+    "0313project-3-atm-machine-project": "^1.0.0",
+    "easyest-hufq": "^1.1.9",
+    "egg-substrate": "^1.0.1",
+    "ez-react-form-validator": "^1.0.3",
+    "glob-build": "^1.1.0",
+    "hapi-good-mongostore": "^0.4.0",
+    "js-password-gen": "^2.2.0",
+    "lam-admin-build": "^1.0.1",
+    "nestjs-jwt-authorize": "^2.0.2",
+    "sjc-leaflet-basemaps": "^1.2.1",
+    "typed-ngrx-actions": "^0.0.8",
+    "vue2-adminlte": "^0.0.1",
+    "xiaodu": "^1.0.0"
+  }
+}

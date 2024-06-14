@@ -1,0 +1,29 @@
+{
+  "name": "project-55",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gnuechtel/shared-util": "^1.0.1",
+    "@humblejs/data-provider": "^1.2.6",
+    "@thingware/apps": "^0.1.7",
+    "carmelo": "^1.0.0",
+    "create-nestjs-temp": "^1.0.2",
+    "driverappsyncmodule": "^0.0.1",
+    "floght-dangrs-fanf": "^1.1.2",
+    "i18nextify": "^3.3.1",
+    "loopback-context": "^3.5.2",
+    "next-cra-loader": "^0.3.0-0",
+    "nongo": "^0.0.1",
+    "react-native-temp-delete-1111": "^1.0.1",
+    "rino-poke84": "^1.0.0",
+    "stathat-dumper": "^1.0.0",
+    "validate_filename": "^0.2.1"
+  }
+}

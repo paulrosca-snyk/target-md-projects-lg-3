@@ -1,0 +1,29 @@
+{
+  "name": "project-56",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cmexd/drawer": "^1.3.0",
+    "@wesselvdp/ui-lib": "^1.0.0",
+    "@zalastax/nolb-packagem": "^0.0.1-security",
+    "ali-contributor": "^0.0.1-security",
+    "andi-dradag33-breki": "^2.1.3",
+    "audit-module": "^0.0.2",
+    "cwp-22-1-emitan": "^1.0.0",
+    "homebridge-http-accessory": "^1.2.0",
+    "ngx-connect-four": "^0.0.3",
+    "passport-rightsignature": "^0.1.0",
+    "pixal.studio.client": "^1.0.0",
+    "ramda.differencewith": "^0.26.1",
+    "react-micro": "^0.0.8",
+    "react-swiper2": "^1.0.2",
+    "testcynpm": "^1.0.0"
+  }
+}

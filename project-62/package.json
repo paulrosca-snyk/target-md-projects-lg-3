@@ -1,0 +1,29 @@
+{
+  "name": "project-62",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollosproject/data-connector-analytics": "^2.43.1",
+    "@harrysong/weapp": "^1.10.4",
+    "@hyper.fun/ionicons-logo-flickr": "^1.3.0",
+    "barterer": "^1.5.1",
+    "event-days": "^0.1.8",
+    "iwan-otak-otak89-sluey": "^2.4.1",
+    "js-loadscript": "^1.0.0",
+    "node-webscraper": "^0.0.1",
+    "openapi-to-service": "^1.2.1",
+    "qinianjs-v": "^1.0.0",
+    "react-native-ankidroid": "^0.6.1",
+    "sslgem": "^0.0.1-security",
+    "tskhatricalc": "^1.4.0",
+    "upback": "^1.0.2",
+    "url2form.js": "^2.1.1"
+  }
+}

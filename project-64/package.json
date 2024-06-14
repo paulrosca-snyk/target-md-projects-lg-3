@@ -1,0 +1,29 @@
+{
+  "name": "project-64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@creative-fonts/agreement-signature": "^1.0.5",
+    "@nicksrandall/vite-plugin-msw": "^0.3.0",
+    "@servicenow/now-toggle": "^19.8.2-ecd",
+    "0xyvzkc": "^1.0.0",
+    "1xbet-sloty-zerkalo-1xbet-c-zerkalo-hz6aybo9h": "^1.0.0",
+    "binary_search03": "^1.0.1",
+    "brown-ext-basic": "^1.0.2",
+    "cache-me": "^1.0.0",
+    "carolsail.bootstrap-colorpicker": "^1.0.0",
+    "eul2quat": "^1.0.0",
+    "flag-bsutils": "^1.0.1",
+    "io-ts-reporters": "^2.0.1",
+    "kiki-rawon81-riris": "^4.1.2",
+    "node-red-contrib-simple-energymeter": "^0.6.2",
+    "react-wechat-api": "^0.1.2"
+  }
+}

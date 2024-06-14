@@ -1,0 +1,29 @@
+{
+  "name": "project-68",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@andrealeone/git-liam": "^0.0.0--.1",
+    "@conceptho/adonis-validators": "^0.0.12",
+    "@marcinkowalczyk/serverless-fargate": "^0.0.14",
+    "@openfonts/quando_latin": "^1.44.2",
+    "cb2pro": "^1.0.2",
+    "diageo-nodered-forgotpassword": "^1.0.5",
+    "flywinds-upload-files": "^1.1.1",
+    "ipod-plugin": "^0.0.1",
+    "jca_filter": "^0.2.1",
+    "kadabraweb-portview": "^0.0.2",
+    "rect5": "^1.0.0",
+    "rudi-esdoger37-ruro": "^1.2.2",
+    "tepmcwhsiitgartber": "^1.0.0",
+    "wibowo-kue24-sukiwir": "^4.4.1",
+    "yzp": "^1.0.0"
+  }
+}

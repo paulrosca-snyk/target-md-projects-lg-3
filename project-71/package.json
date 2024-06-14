@@ -1,0 +1,28 @@
+{
+  "name": "project-71",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@axa-ch/pod-greenservices-co2-calculator": "^1.1.2",
+    "@bellacocool/i18n-remove": "^0.1.2",
+    "@cortado-holding/typography": "^1.0.13",
+    "@mozyun/formily-antd-setters": "^1.1.16",
+    "create-niche-app": "^1.0.0",
+    "donah_calculate": "^1.0.0",
+    "gitex": "^1.0.3",
+    "joko-tiwul36-miaww": "^4.1.3",
+    "kah9n_upgrade_to-do_list": "^1.0.0",
+    "miniprogram-3": "^1.0.0",
+    "muhui0222": "^1.0.0",
+    "qareer-bmi-calculator": "^1.0.3",
+    "waynebi89-check-balance": "^1.0.0",
+    "xenman": "^0.0.1-security"
+  }
+}

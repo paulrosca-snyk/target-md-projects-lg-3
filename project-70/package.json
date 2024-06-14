@@ -1,0 +1,29 @@
+{
+  "name": "project-70",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faljeb/faljeb": "^1.0.0",
+    "@financial-times/o-topper": "^6.0.8",
+    "@msticketingdev/common": "^1.0.15",
+    "@ninanfm/feed": "^1.0.0",
+    "@zhead/schema": "^1.1.0",
+    "9saba-atm": "^1.0.1",
+    "gophersheet": "^0.0.1",
+    "mongodb-avoid-inject": "^1.0.2",
+    "partyscraper": "^1.0.2",
+    "shared-exclusive-lock": "^0.2.3",
+    "taro-plugin-mp-ci": "^1.0.0-beta",
+    "timer-promise": "^0.0.2",
+    "transporttycoon": "^1.2.8",
+    "vue3-upc-barcode-generator": "^1.0.11",
+    "wasm-image-to-black-white": "^0.4.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project-52",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hideoo/eslint-config-astro": "^2.0.2",
+    "@htmlbricks/hb-sidebar-desktop": "^0.20.8",
+    "@jujulego/pythagore-wasm": "^0.1.1",
+    "amocha": "^7.1.2",
+    "egg-rabbitmq": "^1.0.5",
+    "hikaru-generator-aplayer": "^1.2.0",
+    "my-node-sw": "^1.0.1",
+    "ok-fs": "^0.0.1",
+    "react-native-repro": "^3.18.0",
+    "readysteady": "^2.0.1",
+    "umi-kripik69-sukiwir": "^3.2.2",
+    "vue-fluctuation": "^1.0.1",
+    "xiangjiao-project": "^1.0.0",
+    "xtp-components": "^3.0.0-bata.1",
+    "znow": "^0.3.0"
+  }
+}
